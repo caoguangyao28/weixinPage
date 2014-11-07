@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resp>
+    <head>
+        <status>1000</status>
+        <desc><![CDATA[OK]]></desc>
+        <show_desc><![CDATA[成功]]></show_desc>
+        <acctoken></acctoken>
+        <isconverted>1</isconverted>
+        <page>1</page>
+        <total>3</total>
+    </head>
+    <data>
+        <show>zk</show>
+        <chaye>
+            <icon><![CDATA[http://static.etouch.cn/suishou/ad_img/3toee0p9vg5.png]]></icon>
+            <wh_ratio><![CDATA[1.9]]></wh_ratio>
+            <ss_action>
+                <url><![CDATA[]]></url>
+            </ss_action>
+        </chaye>
+        <items>
+            <item>
+                <item_id>36188185158</item_id>
+                <jfb_rate>2.0</jfb_rate>
+                <title><![CDATA[真彩 迪士尼/Disney 儿童书包 男女卡通书包 小学生背包 F7WDHNTZ]]></title>
+                <img_big width="0" heigh="0">
+                    <![CDATA[http://img01.taobaocdn.com/bao/uploaded/i1/T1a6IlFvRbXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_big>
+                <img_small width="0" heigh="0">
+                    <![CDATA[http://img01.taobaocdn.com/bao/uploaded/i1/T1a6IlFvRbXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_small>
+                <price phi="14400.0" plow="7200.0" off="5000"></price>
+                <discount>5.00</discount>
+                <commission value="0" rate=""/>
+                <click><![CDATA[http://a.m.taobao.com/i36188185158.htm]]></click>
+                <is_baoyou>1</is_baoyou>
+            </item>
+            <item>
+                <item_id>20151677631</item_id>
+                <jfb_rate>2.0</jfb_rate>
+                <title><![CDATA[真彩迪士尼/Disney 米奇中学生书包 女生/男生 高中生休闲包 双肩]]></title>
+                <img_big width="0" heigh="0">
+                    <![CDATA[http://img03.taobaocdn.com/bao/uploaded/i3/T1Id3nFwtbXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_big>
+                <img_small width="0" heigh="0">
+                    <![CDATA[http://img03.taobaocdn.com/bao/uploaded/i3/T1Id3nFwtbXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_small>
+                <price phi="19800.0" plow="12800.0" off="6464"></price>
+                <discount>6.46</discount>
+                <commission value="0" rate=""/>
+                <click><![CDATA[http://a.m.taobao.com/i20151677631.htm]]></click>
+                <is_baoyou>1</is_baoyou>
+            </item>
+            <item>
+                <item_id>38381444554</item_id>
+                <jfb_rate>2.0</jfb_rate>
+                <title><![CDATA[真彩 迪士尼 手绘米奇系列 中性笔 晶黑 此款 3盒共36支]]></title>
+                <img_big width="0" heigh="0">
+                    <![CDATA[http://img04.taobaocdn.com/bao/uploaded/i4/T1F.c_FvpaXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_big>
+                <img_small width="0" heigh="0">
+                    <![CDATA[http://img04.taobaocdn.com/bao/uploaded/i4/T1F.c_FvpaXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_small>
+                <price phi="9600.0" plow="3500.0" off="3645"></price>
+                <discount>3.65</discount>
+                <commission value="0" rate=""/>
+                <click><![CDATA[http://a.m.taobao.com/i38381444554.htm]]></click>
+                <is_baoyou>0</is_baoyou>
+            </item>
+            <item>
+                <item_id>36829905528</item_id>
+                <jfb_rate>2.0</jfb_rate>
+                <title><![CDATA[真彩 迪士尼/Disney 炫色潮系列魔笔可擦 12支盒装 0.35mm 中性笔]]></title>
+                <img_big width="0" heigh="0">
+                    <![CDATA[http://img03.taobaocdn.com/bao/uploaded/i3/T148mJFABdXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_big>
+                <img_small width="0" heigh="0">
+                    <![CDATA[http://img03.taobaocdn.com/bao/uploaded/i3/T148mJFABdXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_small>
+                <price phi="3600.0" plow="1680.0" off="4666"></price>
+                <discount>4.67</discount>
+                <commission value="0" rate=""/>
+                <click><![CDATA[http://a.m.taobao.com/i36829905528.htm]]></click>
+                <is_baoyou>0</is_baoyou>
+            </item>
+            <item>
+                <item_id>17446082737</item_id>
+                <jfb_rate>2.0</jfb_rate>
+                <title><![CDATA[真彩 700168  状元红考试8件套装 考试幸运星系列 考试套装]]></title>
+                <img_big width="0" heigh="0">
+                    <![CDATA[http://img01.taobaocdn.com/bao/uploaded/i1/11773027210113754/T1xpuuFjxgXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_big>
+                <img_small width="0" heigh="0">
+                    <![CDATA[http://img01.taobaocdn.com/bao/uploaded/i1/11773027210113754/T1xpuuFjxgXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_small>
+                <price phi="2500.0" plow="1900.0" off="7600"></price>
+                <discount>7.60</discount>
+                <commission value="0" rate=""/>
+                <click><![CDATA[http://a.m.taobao.com/i17446082737.htm]]></click>
+                <is_baoyou>0</is_baoyou>
+            </item>
+            <item>
+                <item_id>37256423408</item_id>
+                <jfb_rate>2.0</jfb_rate>
+                <title><![CDATA[真彩 高档金雕 正品 钢笔 书写流畅超英雄  学生 商务 专用]]></title>
+                <img_big width="0" heigh="0">
+                    <![CDATA[http://img02.taobaocdn.com/bao/uploaded/i2/T1VeumFv4cXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_big>
+                <img_small width="0" heigh="0">
+                    <![CDATA[http://img02.taobaocdn.com/bao/uploaded/i2/T1VeumFv4cXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_small>
+                <price phi="5800.0" plow="2615.0" off="4482"></price>
+                <discount>4.48</discount>
+                <commission value="0" rate=""/>
+                <click><![CDATA[http://a.m.taobao.com/i37256423408.htm]]></click>
+                <is_baoyou>1</is_baoyou>
+            </item>
+            <item>
+                <item_id>36186158672</item_id>
+                <jfb_rate>2.0</jfb_rate>
+                <title><![CDATA[真彩正品迪士尼 儿童书包卡通 米奇儿童书包 小学生双肩背包 男女]]></title>
+                <img_big width="0" heigh="0">
+                    <![CDATA[http://img03.taobaocdn.com/bao/uploaded/i3/T1FoMbFvpfXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_big>
+                <img_small width="0" heigh="0">
+                    <![CDATA[http://img03.taobaocdn.com/bao/uploaded/i3/T1FoMbFvpfXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_small>
+                <price phi="19200.0" plow="8990.0" off="4682"></price>
+                <discount>4.68</discount>
+                <commission value="0" rate=""/>
+                <click><![CDATA[http://a.m.taobao.com/i36186158672.htm]]></click>
+                <is_baoyou>1</is_baoyou>
+            </item>
+            <item>
+                <item_id>37949607739</item_id>
+                <jfb_rate>2.0</jfb_rate>
+                <title><![CDATA[真彩 迪士尼 行李袋笔袋 韩国款可爱笔袋 文具盒 铅笔袋 文具袋]]></title>
+                <img_big width="0" heigh="0">
+                    <![CDATA[http://img02.taobaocdn.com/bao/uploaded/i2/T1O8gmFtRbXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_big>
+                <img_small width="0" heigh="0">
+                    <![CDATA[http://img02.taobaocdn.com/bao/uploaded/i2/T1O8gmFtRbXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_small>
+                <price phi="6800.0" plow="2600.0" off="3823"></price>
+                <discount>3.82</discount>
+                <commission value="0" rate=""/>
+                <click><![CDATA[http://a.m.taobao.com/i37949607739.htm]]></click>
+                <is_baoyou>0</is_baoyou>
+            </item>
+            <item>
+                <item_id>37906891249</item_id>
+                <jfb_rate>2.0</jfb_rate>
+                <title><![CDATA[正品真彩 迪斯尼 卡通 12色 礼盒装 水彩笔 画笔 儿童彩笔]]></title>
+                <img_big width="0" heigh="0">
+                    <![CDATA[http://img03.taobaocdn.com/bao/uploaded/i3/T1kmueFsBdXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_big>
+                <img_small width="0" heigh="0">
+                    <![CDATA[http://img03.taobaocdn.com/bao/uploaded/i3/T1kmueFsBdXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_small>
+                <price phi="3500.0" plow="1990.0" off="5685"></price>
+                <discount>5.69</discount>
+                <commission value="0" rate=""/>
+                <click><![CDATA[http://a.m.taobao.com/i37906891249.htm]]></click>
+                <is_baoyou>1</is_baoyou>
+            </item>
+            <item>
+                <item_id>19017653667</item_id>
+                <jfb_rate>2.0</jfb_rate>
+                <title><![CDATA[真彩 迪士尼 米奇 中学生书包 双肩 女生/男生 高中生休闲包]]></title>
+                <img_big width="0" heigh="0">
+                    <![CDATA[http://img02.taobaocdn.com/bao/uploaded/i2/T1yeIgFE0dXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_big>
+                <img_small width="0" heigh="0">
+                    <![CDATA[http://img02.taobaocdn.com/bao/uploaded/i2/T1yeIgFE0dXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_small>
+                <price phi="17800.0" plow="11500.0" off="6460"></price>
+                <discount>6.46</discount>
+                <commission value="0" rate="null"/>
+                <click><![CDATA[http://a.m.taobao.com/i19017653667.htm]]></click>
+                <is_baoyou>0</is_baoyou>
+            </item>
+            <item>
+                <item_id>37907219014</item_id>
+                <jfb_rate>2.0</jfb_rate>
+                <title><![CDATA[真彩钢笔 正品 金属杆钢笔套装 含墨水 男女学生练字钢笔 小学生]]></title>
+                <img_big width="0" heigh="0">
+                    <![CDATA[http://img02.taobaocdn.com/bao/uploaded/i2/T1T7uqFxlfXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_big>
+                <img_small width="0" heigh="0">
+                    <![CDATA[http://img02.taobaocdn.com/bao/uploaded/i2/T1T7uqFxlfXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_small>
+                <price phi="6800.0" plow="2900.0" off="4264"></price>
+                <discount>4.26</discount>
+                <commission value="0" rate="null"/>
+                <click><![CDATA[http://a.m.taobao.com/i37907219014.htm]]></click>
+                <is_baoyou>0</is_baoyou>
+            </item>
+            <item>
+                <item_id>37457331495</item_id>
+                <jfb_rate>2.0</jfb_rate>
+                <title><![CDATA[真彩 毛笔水写布 毛笔字帖 书法练习 描红 文房四宝 仿宣纸加厚]]></title>
+                <img_big width="0" heigh="0">
+                    <![CDATA[http://gi2.mlist.alicdn.com/bao/uploaded/i2/T1NP5EFExaXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_big>
+                <img_small width="0" heigh="0">
+                    <![CDATA[http://gi2.mlist.alicdn.com/bao/uploaded/i2/T1NP5EFExaXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_small>
+                <price phi="6500.0" plow="3600.0" off="5538"></price>
+                <discount>5.54</discount>
+                <commission value="0" rate=""/>
+                <click><![CDATA[http://b17.cn/item?itemid=37457331495]]></click>
+                <is_baoyou>0</is_baoyou>
+            </item>
+            <item>
+                <item_id>18822961476</item_id>
+                <jfb_rate>2.0</jfb_rate>
+                <title><![CDATA[真彩笔筒文具套装 迪士尼笔筒套装 含铅笔、卷笔刀、剪刀、记事薄]]></title>
+                <img_big width="0" heigh="0">
+                    <![CDATA[http://img02.taobaocdn.com/bao/uploaded/i2/T1jJwmFw0bXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_big>
+                <img_small width="0" heigh="0">
+                    <![CDATA[http://img02.taobaocdn.com/bao/uploaded/i2/T1jJwmFw0bXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_small>
+                <price phi="3680.0" plow="1689.0" off="4589"></price>
+                <discount>4.59</discount>
+                <commission value="0" rate="null"/>
+                <click><![CDATA[http://a.m.taobao.com/i18822961476.htm]]></click>
+                <is_baoyou>0</is_baoyou>
+            </item>
+            <item>
+                <item_id>38395237725</item_id>
+                <jfb_rate>2.0</jfb_rate>
+                <title><![CDATA[真彩 迪士尼 米奇 36支铅笔+笔筒装 HB铅笔 六角沾顶/六角橡皮头]]></title>
+                <img_big width="0" heigh="0">
+                    <![CDATA[http://img02.taobaocdn.com/bao/uploaded/i2/T1jClXFHJbXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_big>
+                <img_small width="0" heigh="0">
+                    <![CDATA[http://img02.taobaocdn.com/bao/uploaded/i2/T1jClXFHJbXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_small>
+                <price phi="6800.0" plow="2990.0" off="4397"></price>
+                <discount>4.40</discount>
+                <commission value="0" rate="null"/>
+                <click><![CDATA[http://a.m.taobao.com/i38395237725.htm]]></click>
+                <is_baoyou>0</is_baoyou>
+            </item>
+            <item>
+                <item_id>35638014898</item_id>
+                <jfb_rate>2.0</jfb_rate>
+                <title><![CDATA[真彩 迪士尼 儿童绘画套装 油画棒 彩色铅笔 水彩笔等六一礼物]]></title>
+                <img_big width="0" heigh="0">
+                    <![CDATA[http://img02.taobaocdn.com/bao/uploaded/i2/T1TUwhFxddXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_big>
+                <img_small width="0" heigh="0">
+                    <![CDATA[http://img02.taobaocdn.com/bao/uploaded/i2/T1TUwhFxddXXXXXXXX_!!0-item_pic.jpg_170x170.jpg]]></img_small>
+                <price phi="21800.0" plow="9801.0" off="4495"></price>
+                <discount>4.50</discount>
+                <commission value="0" rate="null"/>
+                <click><![CDATA[http://a.m.taobao.com/i35638014898.htm]]></click>
+                <is_baoyou>0</is_baoyou>
+            </item>
+        </items>
+    </data>
+</resp>
